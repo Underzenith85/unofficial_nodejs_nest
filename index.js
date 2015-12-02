@@ -301,6 +301,7 @@
                 case 'structure':
                 case 'user_alert_dialog':
                 case 'user_settings':
+                case 'quartz':
                     pushKeys(keys, key);
                     break;
                 case 'energy_latest':
